@@ -184,6 +184,11 @@ var providers = {
 		software: "CloudStack",
 		locations: "IT"
 	},
+	"Kinamo": {
+		url: "https://www.kinamo.be/",
+		software: "CloudStack",
+		locations: "BE"
+	},
 	"KoolFit": {
 		url: "https://koolfit.mx/",
 		software: "OpenStack",
